@@ -1,3 +1,3 @@
 files:
   - source: /example/react/public/locales/en/*.json
-    translation: /example/react/public/locales/%two_letters_code%
+    translation: /example/react/public/locales/%two_letters_code%/%original_file_name%
